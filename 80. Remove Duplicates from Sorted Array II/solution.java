@@ -1,3 +1,7 @@
+// NOTE:
+// This file includes only the Solution class, not a complete executable program. 
+// It serves as a reference to help you review and understand the logic whenever needed.
+
 class Solution {
     public static int removeDuplicates(int[] nums) {
 

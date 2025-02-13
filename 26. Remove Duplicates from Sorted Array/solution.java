@@ -1,3 +1,8 @@
+// NOTE:
+// This file includes only the Solution class, not a complete executable program. 
+// It serves as a reference to help you review and understand the logic whenever needed.
+
+
 public class Solution {
     public int removeDuplicates(int[] nums) {
         if (nums.length == 0) return 0;
